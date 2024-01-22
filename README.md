@@ -2,7 +2,7 @@
 
 # Dijkstra's Algorithm for Shortest Paths
 
-This project is part of a series of short CLI-based projects inspired by classic computer science problems. I have been reading up on computer science theories and thought there is no better way to test my understanding than with mini golang CLI projects.
+This project is part of a series of short CLI-based programs inspired by classic computer science problems. I have been reading up on computer science theories and thought there is no better way to test my understanding than with mini golang CLI projects.
 
 ## Dijkstra's Algorithm
 
