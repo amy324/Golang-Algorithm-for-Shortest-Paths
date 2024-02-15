@@ -2,8 +2,7 @@
 
 # Dijkstra's Algorithm for Shortest Paths
 
-This project is part of a series of short CLI-based programs inspired by classic computer science problems. I have been reading up on computer science theories and thought there is no better way to test my understanding than with mini golang CLI projects.
-
+This project is part of a series of short CLI-based programs inspired by classic computer science problems. This series is to demonstrate using Goroutines and Go concurrency features to write solutions to these classic problems.
 ## Dijkstra's Algorithm
 
 This Go program implements Dijkstra's algorithm to find the shortest paths in a weighted graph. The program provides a textual representation of the graph's adjacency matrix and outputs the shortest paths from a specified source vertex.
